@@ -1,7 +1,0 @@
-app_env
-app_env/*
-
-
-imageuploadapp/__py*
-imageuploadproject/__py*
-imageuploadapp/migrations/__py*
